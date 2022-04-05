@@ -1,6 +1,7 @@
 # ReadMe
 This dataset was made for a Data Curation course at the University of Washington in March 2022. It contains information on public library data related to eBook and print book collections, expenditures, and circulation from 2008, 2017, 2018, and 2019 in Washington State and the entire United States. This data is freely available to the public, although the primary intended audiences are public library researchers and advocates. 
 The data is available in .xlsx and .csv formats and includes three tables. 
+Data is collected from the Institute of Museum and Library Services Public Libraries Survey: https://www.imls.gov/research-evaluation/data-collection/public-libraries-survey
 ## Table of Contents
 - [Naming](#naming)
 - [Data Dictionary](#datadictionary)
